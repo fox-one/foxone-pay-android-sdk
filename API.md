@@ -28,7 +28,7 @@ FoxOneOpenSDK.init(this, "YourAppSecret", FoxOneOpenSDK.Option(debugEnable = tru
 FoxOneOpenSDK.token = '34tsr45trert4645643t'
 ```
 
-* API接口使用
+* API 接口使用
 
 > openSDK初始化后就可以调用业务API接口了，详细参考[接入文档](API.md)，例如：
 
@@ -50,7 +50,7 @@ APILoader.load(WalletAPI::class.java).getWalletAssetInfo(assetId)
 
 **`注意：API的具体使用情况可参考Demo`**
 
-## API 说明
+## API 说明
 
 API 接口详情，请阅读[API 详情](api_detail.md)
 
