@@ -1,4 +1,4 @@
-## WAlletAPI
+## WalletAPI
 
 #### - getAllWalletInfo
  * 参数:
@@ -428,11 +428,6 @@
 
 #### - hideWalletAsset
 #### - showWalletAsset
-
-## LuckyCoinAPI
-
-#### - create
-#### - publish
 
 ## PinAPI
 #### - setPin
